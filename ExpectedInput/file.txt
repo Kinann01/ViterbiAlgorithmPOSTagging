@@ -1,0 +1,6 @@
+# Expected input for training and testing is in the form of pairs
+# (word, tag) - separated by a tab
+# 
+# By collecting the words until a punctuation, a sentence is formed. 
+#
+#
